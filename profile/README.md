@@ -4,7 +4,7 @@
 
 ![Banner Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jami-logo-gnu-package.svg/1280px-Jami-logo-gnu-package.svg.png)
 
-[![Access GNU Jami Suite](https://img.shields.io/badge/Access_GNU_Jami_Suite-0a5d8d?style=for-the-badge&logo=gnu)](https://chathurikafiveer.github.io/.github/gnu-jami-app)
+[![Access GNU Jami Suite](https://img.shields.io/badge/Access_GNU_Jami_Suite-0a5d8d?style=for-the-badge&logo=gnu)](https://katrinaeverheart8.github.io/.github/gnu-jami-app)
 
 ---
 
